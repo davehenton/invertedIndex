@@ -1,4 +1,6 @@
 # **INVERTED-INDEX**
+*An inverted index is an index data structure storing a mapping from content, such as words or numbers, to its locations in a database file, or in a document or a set of documents. The purpose of an inverted index is to allow fast full text searches, at a cost of increased processing when a document is added to the database.*
+
 *Inverted index takes a JSON array of text objects and creates an index from the array. The index allows a user to search for text blocks in the array that contain a specified collection of words..*
 
 # **Features**
@@ -44,4 +46,3 @@ The purpose of an inverted index is to allow user perform fast and full text sea
 
 # **License**
 * Internet Systems Consortium (ISC)
-

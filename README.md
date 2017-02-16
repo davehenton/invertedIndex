@@ -1,3 +1,4 @@
+
 [![Build Status](https://travis-ci.org/andela-cofor/invertedIndex.svg?branch=development)](https://travis-ci.org/andela-cofor/invertedIndex)
 
 [![Coverage Status](https://coveralls.io/repos/github/andela-cofor/invertedIndex/badge.svg?branch=development)](https://coveralls.io/github/andela-cofor/invertedIndex?branch=development)
